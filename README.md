@@ -1,2 +1,2 @@
 # PIAIC
-Course Study
+Solution is given within the assignment files.
